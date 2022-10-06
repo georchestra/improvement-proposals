@@ -67,4 +67,4 @@ The PSC is made of individuals involved in the project. Those individuals dont r
 14. No GIP breaking the manifesto can be accepted. If such a GIP is proposed, PSC members dont have to provide an alternative.
 
 
-15. A GIP cant be proposed more than three times. If the GIP is rejected three times, or if it isnt reproposed, then the GIP is **refused**.
+15. A GIP cant be proposed more than three times. If the GIP is rejected three times, or if it isnt reproposed, then the GIP is refused.
