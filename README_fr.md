@@ -43,7 +43,7 @@ Le PSC est constitué d’individus impliqués dans le projet. Ces individus ne 
 6. Un vote est définitif.
 
 
-7. A la fin de la période, les membres du PSC qui ne se sont pas prononcés votent automatiquement avec +0.
+7. A la fin de la période, les membres du PSC qui ne se sont pas prononcés votent automatiquement avec `+0`.
 
 
 8. Si tous les membres du PSC ont voté, la période prend fin immédiatement.
@@ -64,7 +64,7 @@ Le PSC est constitué d’individus impliqués dans le projet. Ces individus ne 
 13. Aucune GIP contrevenant sensiblement au manifeste ne peut être acceptée. Si une telle GIP se présente, les membres du PSC ne sont pas tenus de proposer une alternative.
 
 
-14. Si la GIP recueille au moins 30% de +1 ET un ou plusieurs -1, et si aucun membre du PSC ayant voté -1 ne fait de proposition sur une alternative rendant la GIP acceptable, la GIP est acceptée.
+14. Si la GIP recueille au moins 30% de `+1` ET un ou plusieurs `-1`, et si aucun membre du PSC ayant voté `-1` ne fait de proposition sur une alternative rendant la GIP acceptable, la GIP est acceptée.
 
 
 15. Une GIP ne peut être proposée plus de trois fois. Si par trois fois la GIP n’est pas acceptée, ou si elle n’est pas reproposée après elle est refusée.
