@@ -46,7 +46,7 @@ The PSC is made of individuals involved in the project. Those individuals dont r
 7. The complete voting process is archived on the issue tracker and stays public.
 
 
-8. At the end of the period, PSC members who havent voted automatically vote with a +0.
+8. At the end of the period, PSC members who havent voted automatically vote with a `+0`.
 
 
 9. If all the PSC members have voted, the voting period ends immediately.
