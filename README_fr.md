@@ -6,7 +6,7 @@ Un des rôles du PSC est de prendre des décisions quant au management du projet
 
 - les modalités d’animation de la communauté
 - la communication
-- les modifications au code source et ayant un impact significatif sur sur une partie de la communauté, ou affectant la compatibilité ascendante, ou affectant la compatibilité avec des produits tiers
+- les modifications au code source et ayant un impact significatif sur une partie de la communauté, ou affectant la compatibilité ascendante, ou affectant la compatibilité avec des produits tiers
 - les modalités de contribution au code source
 - le fonctionnement du PSC
 
@@ -15,10 +15,10 @@ Le PSC est constitué d’individus impliqués dans le projet. Ces individus ne 
 
 ## Processus
 
-1. Toute personne peut faire une proposition (GeOrchestra Improvement Proposal, ci-après désigné GIP), à titre individuel ou en représentant une organisation. La GIP doit être rédigée dans la langue native de la personne et postée sur le canal de la communauté. Si cette langue native n’est pas l’anglais, la traduction de la GIP en anglais doit également être fournie.
+1. Toute personne peut faire une proposition (*GeOrchestra Improvement Proposal*, ci-après désigné GIP), à titre individuel ou comme représentant d'une organisation. La GIP doit être rédigée dans la langue native de la personne et postée sur le canal de la communauté. Si cette langue native n’est pas l’anglais, la traduction de la GIP en anglais doit également être fournie.
 
 
-2. Il est conseillé que la GIP suive cette structure afin de faciliter son examen et son adoption :
+2. Il est conseillé que la GIP respecte la structure suivante afin de faciliter son examen et son adoption :
   - l’objectif visé
   - les bénéfices attendus pour la communauté
   - les modalités d’implémentation
@@ -28,14 +28,14 @@ Le PSC est constitué d’individus impliqués dans le projet. Ces individus ne 
 3. Toute personne est invitée à examiner la GIP, poser des questions, proposer des modifications sur le canal de la communauté. La personne qui a déposé la GIP peut prendre ces modifications en compte en modifiant la GIP sur le dépôt de sources. Les modifications sont historisées.
 
 
-4. Lorsque la personne pense la GIP prête à être soumise, elle demande au PSC de se prononcer. Le PSC annonce sur le canal de la communauté qu’un processus de vote commence.
+4. Lorsque la personne estime la GIP prête à être soumise, elle demande au PSC de se prononcer. Le PSC annonce sur le canal de la communauté qu’un processus de vote commence.
 
 
 5. Chaque membre du PSC a 15 jours (360 heures à compter de la date de l’annonce du vote) pour se prononcer. Pour ce faire, il ajoute son vote à la GIP publiée sur le dépôt de sources, avec :
 
   - `+1` : signifie que le membre supporte la GIP
   - `+0` : Moyennement pour, avec indication favorable
-  - `0` : Moyennement pour
+  - `0` : Neutre
   - `-0` : Moyennement contre, avec indication défavorable
   - `-1` : Contre, avec motifs détaillés
 

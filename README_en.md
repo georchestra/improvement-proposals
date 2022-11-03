@@ -35,7 +35,7 @@ The PSC is made of individuals involved in the project. Those individuals don't 
 
   - `+1` : the PSC member supports the GIP
   - `+0` : mildly for, with positive support
-  - `0` : mildly for
+  - `0` : neutral
   - `-0` : mildly against, with negative support
   - `-1` : against, with detailed motives
 
