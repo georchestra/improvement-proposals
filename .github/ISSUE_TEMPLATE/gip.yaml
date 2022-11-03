@@ -1,0 +1,72 @@
+name: "GeOrchestra Improvement Proposal (GIP)"
+description: "Propose a geOrchestra enhancement"
+title: "[GIP] "
+labels: ["GIP"]
+assignees:
+  - jeanpommier
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Please use this form to describe your enhancement proposal.
+
+        If you have questions, you are invited to read the [geOrchestra Improvement Proposals notice](https://github.com/georchestra/improvement-proposals/blob/main/README_en.md) and the [geOrchestra manifest](https://github.com/georchestra/manifest/blob/main/MANIFEST.EN.md)
+
+        If you still have questions, you may ask them on [the mailing list](mailto:georchestra@googlegroups.com) or you can [send an email to the georchestra Steering Committee](mailto:psc@georchestra.org)
+  - type: textarea
+    id: who
+    attributes:
+      label: Who ?
+      description: Presentation of who will support this GIP
+      placeholder: pi-Geosolutions (jean.pommier@pi-geosolutions.fr) with funding from the World Bank.
+    validations:
+      required: false
+  - type: textarea
+    id: target-module
+    attributes:
+      label: Target Module
+      description: Which part of geOrchestra will be affected ?
+      placeholder: Does it concern Mapstore ? GeoNetwork ? Header ? Datafeeder ? Other ?
+    validations:
+      required: true
+  - type: textarea
+    id: what
+    attributes:
+      label: What ?
+      description: Tell us more about your GIP ? What is it about ? What benefits does it bring to the community ?
+    validations:
+      required: true
+  - type: textarea
+    id: why
+    attributes:
+      label: Why ?
+      description: What is motivating this GIP ?
+    validations:
+      required: true
+  - type: textarea
+    id: how
+    attributes:
+      label: How ?
+      description: How do you intend on implementing this feature ?
+      placeholder:
+    validations:
+      required: true
+  - type: textarea
+    id: pitfalls
+    attributes:
+      label: Any potential pitfalls and ways to circumvent them ?
+    validations:
+      required: false
+  - type: textarea
+    id: when
+    attributes:
+      label: When ?
+      description: When do you expect it to be released ? Does it target a specific release Any dependencies ?
+    validations:
+      required: false
+  - type: markdown
+    attributes:
+      value:  |
+        Thanks for your commitment!
+
+        Your proposal will be reviewed and voted in a short while.
