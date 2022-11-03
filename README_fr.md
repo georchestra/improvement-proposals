@@ -31,7 +31,7 @@ Le PSC est constitué d’individus impliqués dans le projet. Ces individus ne 
 4. Lorsque la personne pense la GIP prête à être soumise, elle demande au PSC de se prononcer. Le PSC annonce sur le canal de la communauté qu’un processus de vote commence.
 
 
-5. Chaque membre du PSC a 15 jours (360 heures à compter de la date de l’annonce du vote) pour se prononcer, à compter de l’annonce du vote. Pour ce faire, il ajoute son vote à la GIP publiée sur le dépôt de sources, avec :
+5. Chaque membre du PSC a 15 jours (360 heures à compter de la date de l’annonce du vote) pour se prononcer. Pour ce faire, il ajoute son vote à la GIP publiée sur le dépôt de sources, avec :
 
   - `+1` : signifie que le membre supporte la GIP
   - `+0` : Moyennement pour, avec indication favorable
@@ -55,16 +55,15 @@ Le PSC est constitué d’individus impliqués dans le projet. Ces individus ne 
 10. Tout membre du PSC qui vote `-1` contre une GIP doit fournir publiquement des explications sur les raisons de son vote.
 
 
-11. Si la GIP recueille au moins 30% de `+1` rapporté à l’effectif du PSC, ET si elle ne recueille aucun `-1`, elle est acceptée. L’ensemble du processus de vote est archivé et reste public.
+11. Si la GIP recueille au moins 30% de `+1` rapporté à l’effectif du PSC, ET si elle ne recueille aucun `-1`, elle est **acceptée**. L’ensemble du processus de vote est archivé et reste public.
 
 
-12. Si la GIP recueille au moins 30% de `+1` ET un ou plusieurs `-1`, elle est placée en attente. Tous les membres du PSC ayant voté `-1` doivent proposer sous deux mois une alternative rendant la GIP acceptable. Le porteur du GIP est alors libre de modifier sa proposition puis de demander un nouveau processus de vote qui reprend au début, avec numéro d’identification mineur.
+12. Si la GIP recueille au moins 30% de `+1` ET un ou plusieurs `-1`, elle est placée **en attente**.
+  - Tous les membres du PSC ayant voté `-1` doivent proposer sous deux mois une alternative rendant la GIP acceptable. Le porteur du GIP est alors libre de modifier sa proposition puis de demander un nouveau processus de vote qui reprend au début, avec numéro d’identification mineur.
+  - Si aucun membre du PSC ayant voté `-1` ne fait de proposition sur une alternative rendant la GIP acceptable, la GIP est acceptée.
 
 
 13. Aucune GIP contrevenant sensiblement au manifeste ne peut être acceptée. Si une telle GIP se présente, les membres du PSC ne sont pas tenus de proposer une alternative.
 
 
-14. Si la GIP recueille au moins 30% de `+1` ET un ou plusieurs `-1`, et si aucun membre du PSC ayant voté `-1` ne fait de proposition sur une alternative rendant la GIP acceptable, la GIP est acceptée.
-
-
-15. Une GIP ne peut être proposée plus de trois fois. Si par trois fois la GIP n’est pas acceptée, ou si elle n’est pas reproposée après elle est refusée.
+14. Une GIP ne peut être proposée plus de trois fois. Si par trois fois la GIP n’est pas acceptée, ou si elle n’est pas reproposée après elle est refusée.
