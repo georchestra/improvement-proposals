@@ -63,7 +63,7 @@ The PSC is made of individuals involved in the project. Those individuals don't 
   - If the PSC members having voted `-1` don't propose an alternative making the GIP acceptable for them, then the GIP is **accepted**.
 
 
-13. No GIP breaking the manifesto can be accepted. If such a GIP is proposed, PSC members don't have to provide an alternative.
+13. No GIP breaking the [manifesto](https://github.com/georchestra/manifest/blob/main/MANIFEST.EN.md) can be accepted. If such a GIP is proposed, PSC members don't have to provide an alternative.
 
 
 14. A GIP can't be proposed more than three times. If the GIP is rejected three times, or if it isn't reproposed, then the GIP is refused.
