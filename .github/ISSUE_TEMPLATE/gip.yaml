@@ -1,7 +1,7 @@
-name: "geOrchestra Improvement Proposal (GIP)"
+name: "[en] GeOrchestra Improvement Proposal (GIP)"
 description: "Propose a geOrchestra enhancement"
 title: "[GIP] "
-labels: ["GIP"]
+labels: ["GIP","Pending"]
 assignees:
   - jeanpommier
 body:
@@ -33,7 +33,7 @@ body:
     id: what
     attributes:
       label: What ?
-      description: Tell us more about your GIP ? What is it about ? What benefits does it bring to the community ?
+      description: Tell us more about your GIP. What is it about ? What benefits does it bring to the community ?
     validations:
       required: true
   - type: textarea
@@ -61,7 +61,7 @@ body:
     id: when
     attributes:
       label: When ?
-      description: When do you expect it to be released ? Does it target a specific release Any dependencies ?
+      description: When do you expect it to be released ? Does it target a specific release ? Any dependencies ?
     validations:
       required: false
   - type: markdown
@@ -70,3 +70,26 @@ body:
         Thanks for your commitment!
 
         Your proposal will be reviewed and voted in a short while.
+  - type: markdown
+    attributes:
+      value: "---"
+  - type: textarea
+    id: voting
+    attributes:
+      label: "State of the vote:"
+      description: "[do not edit] Space reserved by the PSC to track the advancement of the GIP"
+      value: |
+
+        | PSC members              | vote |
+        |-------------------------:|------|
+        | Fabrice Phung            |      |
+        | François Van Der Biest   |      |
+        | Pierre Mauduit           |      |
+        | Landry Breuil            |      |
+        | Stéphane Mével-Viannay   |      |
+        | Maël Reboux              |      |
+        | Pierre Jégo              |      |
+        | Jean Pommier             |      |
+        | Catherine Piton-Morales  |      |
+    validations:
+      required: false

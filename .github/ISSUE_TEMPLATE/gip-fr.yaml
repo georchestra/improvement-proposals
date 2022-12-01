@@ -1,7 +1,7 @@
 name: "[fr] GeOrchestra Improvement Proposal (GIP)"
 description: "Soumettre une demande d'évolution"
 title: "[GIP] "
-labels: ["GIP"]
+labels: ["GIP","Pending"]
 assignees:
   - jeanpommier
 body:
@@ -14,7 +14,7 @@ body:
 
         Si après ça vous avez encore des questions, vous pouvez les poser sur [la mailing liste](mailto:georchestra@googlegroups.com) ou bien [envoyer un mail au comité de pilotage](mailto:psc@georchestra.org)
 
-        _**Conformément à la note sur les [Propositions d'évolutions de geOrchestra](https://github.com/georchestra/improvement-proposals/blob/main/README_fr.md), vous pouvez soumettre une GIP en français, à condition de fournir une traduction en anglais (on ne vous demande pas du Shakespeare). Chaque champ ci-dessous est donc doublé de son équivalent en anglais. Merci.**_
+        _**Conformément à la note sur les [Propositions d'évolutions de geOrchestra](https://github.com/georchestra/improvement-proposals/blob/main/README_fr.md), vous pouvez soumettre une GIP en français. Une traduction en anglais  est souhaitée (on ne vous demande pas du Shakespeare) mais non obligatoire (le PSC s'en occupera si besoin). Chaque champ ci-dessous est donc doublé de son équivalent en anglais. Merci.**_
   - type: markdown
     attributes:
       value: "---"
@@ -52,55 +52,90 @@ body:
       description: Which part of geOrchestra will be affected ?
       placeholder: Does it concern Mapstore ? GeoNetwork ? Header ? Datafeeder ? Other ?
     validations:
-      required: true
+      required: false
   - type: markdown
     attributes:
       value: "---"
+  - type: textarea
+    id: fr-what
+    attributes:
+      label: "[FR] Quoi ?"
+      description: Parlez-nous de votre GIP. De quoi s'agit-il ? Quels bénéfices apportera-t-il à la communauté ?
+    validations:
+      required: true
   - type: textarea
     id: what
     attributes:
-      label: What ?
-      description: Tell us more about your GIP ? What is it about ? What benefits does it bring to the community ?
-    validations:
-      required: true
-  - type: markdown
-    attributes:
-      value: "---"
-  - type: textarea
-    id: why
-    attributes:
-      label: Why ?
-      description: What is motivating this GIP ?
-    validations:
-      required: true
-  - type: markdown
-    attributes:
-      value: "---"
-  - type: textarea
-    id: how
-    attributes:
-      label: How ?
-      description: How do you intend on implementing this feature ?
-      placeholder:
-    validations:
-      required: true
-  - type: markdown
-    attributes:
-      value: "---"
-  - type: textarea
-    id: pitfalls
-    attributes:
-      label: Any potential pitfalls and ways to circumvent them ?
+      label: "[EN] What ?"
+      description: Tell us more about your GIP. What is it about ? What benefits does it bring to the community ?
     validations:
       required: false
   - type: markdown
     attributes:
       value: "---"
   - type: textarea
+    id: fr-why
+    attributes:
+      label: "[FR] Pourquoi ?"
+      description: Quelles sont les raisons/besoins motivant cette GIP ?
+    validations:
+      required: true
+  - type: textarea
+    id: why
+    attributes:
+      label: "[EN] Why ?"
+      description: What is motivating this GIP ?
+    validations:
+      required: false
+  - type: markdown
+    attributes:
+      value: "---"
+  - type: textarea
+    id: fr-how
+    attributes:
+      label: "[FR] Comment ?"
+      description: Comment prévoyez-vous d'implémenter cette évolution ?
+      placeholder:
+    validations:
+      required: true
+  - type: textarea
+    id: how
+    attributes:
+      label: "[EN] How ?"
+      description: How do you intend on implementing this feature ?
+      placeholder:
+    validations:
+      required: false
+  - type: markdown
+    attributes:
+      value: "---"
+  - type: textarea
+    id: fr-pitfalls
+    attributes:
+      label: "[FR] Identifiez-vous d'éventuels problèmes et avez-vous une idée sur la façon de les circonvenir ?"
+    validations:
+      required: false
+  - type: textarea
+    id: pitfalls
+    attributes:
+      label: "[EN] Any potential pitfalls and ways to circumvent them ?"
+    validations:
+      required: false
+  - type: markdown
+    attributes:
+      value: "---"
+  - type: textarea
+    id: fr-when
+    attributes:
+      label: "[FR] Quand ?"
+      description: Quand prévoyez-vous sa sortie ? Ciblez-vous une version particulière de geOrchestra ? Y a-t-il des dépendances notables ?
+    validations:
+      required: false
+  - type: textarea
     id: when
     attributes:
-      label: When ?
-      description: When do you expect it to be released ? Does it target a specific release Any dependencies ?
+      label: "[EN] When ?"
+      description: When do you expect it to be released ? Does it target a specific release ? Any dependencies ?
     validations:
       required: false
   - type: markdown
@@ -109,6 +144,29 @@ body:
   - type: markdown
     attributes:
       value:  |
-        Thanks for your commitment!
+        Merci pour votre engagement!
 
-        Your proposal will be reviewed and voted in a short while.
+        Votre proposition va maintenant être revue et soumise au vote du comité de pilotage de geOrchestra.
+  - type: markdown
+    attributes:
+      value: "---"
+  - type: textarea
+    id: voting
+    attributes:
+      label: "State of the vote:"
+      description: "[do not edit] Space reserved by the PSC to track the advancement of the GIP"
+      value: |
+
+        | PSC members              | vote |
+        |-------------------------:|------|
+        | Fabrice Phung            |      |
+        | François Van Der Biest   |      |
+        | Pierre Mauduit           |      |
+        | Landry Breuil            |      |
+        | Stéphane Mével-Viannay   |      |
+        | Maël Reboux              |      |
+        | Pierre Jégo              |      |
+        | Jean Pommier             |      |
+        | Catherine Piton-Morales  |      |
+    validations:
+      required: false
