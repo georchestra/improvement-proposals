@@ -15,7 +15,7 @@ Le PSC est constitué d’individus impliqués dans le projet. Ces individus ne 
 
 ## Processus
 
-1. Toute personne peut faire une proposition (*GeOrchestra Improvement Proposal*, ci-après désigné GIP), à titre individuel ou comme représentant d'une organisation. La GIP doit être rédigée dans la langue native de la personne et postée sur le canal de la communauté. Si cette langue native n’est pas l’anglais, la traduction de la GIP en anglais doit également être fournie.
+1. Toute personne peut faire une proposition (*GeOrchestra Improvement Proposal*, ci-après désigné GIP), à titre individuel ou comme représentant d'une organisation. La GIP doit être rédigée dans la langue native de la personne et postée sur le canal de la communauté. Si cette langue native n’est pas l’anglais, la traduction de la GIP en anglais serait appréciée, le cas échéant le PSC se chargera de la traduction.
 
 
 2. Il est conseillé que la GIP respecte la structure suivante afin de faciliter son examen et son adoption :
