@@ -2,8 +2,6 @@ name: "[en] GeOrchestra Improvement Proposal (GIP)"
 description: "Propose a geOrchestra enhancement"
 title: "[GIP] "
 labels: ["GIP","Pending"]
-assignees:
-  - jeanpommier
 body:
   - type: markdown
     attributes:
