@@ -15,7 +15,7 @@ The PSC is made of individuals involved in the project. Those individuals don't 
 
 ## Process
 
-1. Anyone can propose a GIP (*GeOrchestra Improvement Proposal*), be it as an individual or an entity. The GIP has to be redacted by filing an issue in this repository - in the author's native language - and posted on the community's mailing-list (georchestra at georchestra.org). When not in english, an english translation has to be provided.
+1. Anyone can propose a GIP (*GeOrchestra Improvement Proposal*), be it as an individual or an entity. The GIP has to be redacted by filing an issue in this repository - in the author's native language - and posted on the community's mailing-list (georchestra at georchestra.org). When not in english, an english translation would be appreciated, otherwise the PSC will translate it to english.
 
 
 2. To make it easier to examinate and adopt the GIP, it is preferred that the GIP matches the following structure:
