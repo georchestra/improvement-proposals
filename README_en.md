@@ -28,7 +28,7 @@ The PSC is made of individuals involved in the project. Those individuals don't 
 3. Anyone is welcome to examine the GIP, ask questions, propose modifications on github or on the mailing list. The individual who proposed the GIP can account for those modifications by modifying the GIP in the issue tracker - This way modifications are tracked.
 
 
-4. When the individual thinks the GIP is ready for review, they ask the PSC to examine it. The PSC then announces on the community's mailing-list that a voting process has started.
+4. **When the individual thinks the GIP is ready for review, they ask the PSC to examine it.** The PSC then announces on the community's mailing-list that a voting process has started.
 
 
 5. Every PSC member has 15 days (360 hours starting at the voting process announce) to vote. To do so, they comment on the issue tracker with:
