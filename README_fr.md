@@ -28,7 +28,7 @@ Le PSC est constitué d’individus impliqués dans le projet. Ces individus ne 
 3. Toute personne est invitée à examiner la GIP, poser des questions, proposer des modifications sur le canal de la communauté. La personne qui a déposé la GIP peut prendre ces modifications en compte en modifiant la GIP sur le dépôt de sources. Les modifications sont historisées.
 
 
-4. Lorsque la personne estime la GIP prête à être soumise, elle demande au PSC de se prononcer. Le PSC annonce sur le canal de la communauté qu’un processus de vote commence.
+4. **Lorsque la personne estime la GIP prête à être soumise, elle demande au PSC de se prononcer.** Le PSC annonce sur le canal de la communauté qu’un processus de vote commence.
 
 
 5. Chaque membre du PSC a 15 jours (360 heures à compter de la date de l’annonce du vote) pour se prononcer. Pour ce faire, il ajoute son vote à la GIP publiée sur le dépôt de sources, avec :
