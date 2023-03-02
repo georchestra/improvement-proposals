@@ -144,7 +144,7 @@ body:
       value:  |
         Merci pour votre engagement!
 
-        Votre proposition va maintenant être revue et soumise au vote du comité de pilotage de geOrchestra.
+        Votre proposition va maintenant être discutée en communauté, éventuellement revue puis soumise au vote du comité de pilotage de geOrchestra.
   - type: markdown
     attributes:
       value: "---"
