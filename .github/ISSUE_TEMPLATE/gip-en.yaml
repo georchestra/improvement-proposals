@@ -67,7 +67,7 @@ body:
       value:  |
         Thanks for your commitment!
 
-        Your proposal will be reviewed and voted in a short while.
+        Your proposal will be discussed with the community, reviewed and voted in a short while.
   - type: markdown
     attributes:
       value: "---"
