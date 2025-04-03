@@ -15,7 +15,7 @@ The PSC is made of individuals involved in the project. Those individuals don't 
 
 ## Process
 
-1. Anyone can propose a GIP (*GeOrchestra Improvement Proposal*), be it as an individual or an entity. The GIP has to be redacted by filing an issue in this repository - in the author's native language - and posted on the community's mailing-list (georchestra at georchestra.org). When not in english, an english translation would be appreciated, otherwise the PSC will translate it to english.
+1. Anyone can propose a GIP (*GeOrchestra Improvement Proposal*), be it as an individual or an entity. The GIP has to be redacted by filing an issue in this repository - in the author's native language - and posted on the main public community's mailing-list (georchestra@googlegroups.com). When not in english, an english translation would be appreciated, otherwise the PSC will translate it to english.
 
 
 2. To make it easier to examinate and adopt the GIP, it is preferred that the GIP matches the following structure:
@@ -28,7 +28,8 @@ The PSC is made of individuals involved in the project. Those individuals don't 
 3. Anyone is welcome to examine the GIP, ask questions, propose modifications on github or on the mailing list. The individual who proposed the GIP can account for those modifications by modifying the GIP in the issue tracker - This way modifications are tracked.
 
 
-4. **When the individual thinks the GIP is ready for review, they ask the PSC to examine it.** The PSC then announces on the community's mailing-list that a voting process has started.
+4. **When the author of the GIP thinks the GIP is ready for review, they ask the PSC to examine it by sending an email on the main public community's mailing-list (georchestra@googlegroups.com).** 
+This announces to the community and the PSC that a voting process has started.
 
 
 5. Every PSC member has 15 days (360 hours starting at the voting process announce) to vote. To do so, they comment on the issue tracker with:

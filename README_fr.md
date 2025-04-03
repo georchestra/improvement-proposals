@@ -15,7 +15,7 @@ Le PSC est constitué d’individus impliqués dans le projet. Ces individus ne 
 
 ## Processus
 
-1. Toute personne peut faire une proposition (*GeOrchestra Improvement Proposal*, ci-après désigné GIP), à titre individuel ou comme représentant d'une organisation. La GIP doit être rédigée dans la langue native de la personne et postée sur le canal de la communauté. Si cette langue native n’est pas l’anglais, la traduction de la GIP en anglais serait appréciée, le cas échéant le PSC se chargera de la traduction.
+1. Toute personne peut faire une proposition (*GeOrchestra Improvement Proposal*, ci-après désigné GIP), à titre individuel ou comme représentant d'une organisation. La GIP doit être rédigée dans la langue native de la personne et postée sur la liste de diffusion publique principale de la communauté (georchestra@googlegroups.com). Si cette langue native n’est pas l’anglais, la traduction de la GIP en anglais serait appréciée, le cas échéant le PSC se chargera de la traduction.
 
 
 2. Il est conseillé que la GIP respecte la structure suivante afin de faciliter son examen et son adoption :
@@ -28,7 +28,8 @@ Le PSC est constitué d’individus impliqués dans le projet. Ces individus ne 
 3. Toute personne est invitée à examiner la GIP, poser des questions, proposer des modifications sur le canal de la communauté. La personne qui a déposé la GIP peut prendre ces modifications en compte en modifiant la GIP sur le dépôt de sources. Les modifications sont historisées.
 
 
-4. **Lorsque la personne estime la GIP prête à être soumise, elle demande au PSC de se prononcer.** Le PSC annonce sur le canal de la communauté qu’un processus de vote commence.
+4. **Lorsque la personne estime la GIP prête à être soumise, elle demande au PSC de se prononcer en envoyant un courriel sur la liste de diffusion publique principale de la communauté (georchestra@googlegroups.com).** 
+Ceci annonce à la communauté et au PSC qu'un processus de vote commence.
 
 
 5. Chaque membre du PSC a 15 jours (360 heures à compter de la date de l’annonce du vote) pour se prononcer. Pour ce faire, il ajoute son vote à la GIP publiée sur le dépôt de sources, avec :
