@@ -1,6 +1,7 @@
 name: "[fr] geOrchestra Improvement Proposal (GIP)"
 description: "Soumettre une demande d'évolution"
 title: "[GIP] "
+type: GIP
 labels: ["GIP","Pending"]
 body:
   - type: markdown
