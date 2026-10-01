@@ -156,16 +156,18 @@ body:
       description: "[do not edit] Space reserved by the PSC to track the advancement of the GIP"
       value: |
 
-        | PSC members              | vote |
-        |-------------------------:|------|
-        | Fabrice Phung            |      |
-        | François Van Der Biest   |      |
-        | Pierre Mauduit           |      |
-        | Landry Breuil            |      |
-        | Stéphane Mével-Viannay   |      |
-        | Maël Reboux              |      |
-        | Pierre Jégo              |      |
-        | Jean Pommier             |      |
-        | Catherine Piton-Morales  |      |
+        | PSC members              | vote  |
+        |:------------------------:|:-----:|
+        | Fabrice Phung            |   -   |
+        | François Van Der Biest   |   -   |
+        | Pierre Mauduit           |   -   |
+        | Landry Breuil            |   -   |
+        | Stéphane Mével-Viannay   |   -   |
+        | Maël Reboux              |   -   |
+        | Pierre Jégo              |   -   |
+        | Jean Pommier             |   -   |
+        | Catherine Piton-Morales  |   -   |
+        | Romain Bouvier           |   -   |
+
     validations:
       required: false
